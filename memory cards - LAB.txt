@@ -1,0 +1,33 @@
+		
+	1/ step 1
+	
+		1.1/ explore code 
+		
+		1.2/ create project in github
+		
+		1.3/ first commit code 
+		
+		git init
+		git branch -M main
+		git remote add origin https://github.com/###########/###########.git
+		
+		git add index.html
+		git commit -m "commit index.html"
+		git push -u origin main
+		
+		git add style.css
+		git commit -m "commiting style.css"
+		git push -u origin main
+		
+		OR you could have done:
+		
+		git add .
+		git commit -m "first commit"
+		git push -u origin main
+		
+	2/ explore, integrate and commit code for steps 2 3 4 5
+
+		git add script.js
+		git commit -m "adding the create card feature"
+		git push -u origin main
+		
